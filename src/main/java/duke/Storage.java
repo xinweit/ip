@@ -10,7 +10,7 @@ import java.util.Scanner;
  * Storage class to save tasks to and load tasks from file on local machine.
  */
 public class Storage {
-    
+
     protected String filePath;
 
     /**
